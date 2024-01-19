@@ -36,7 +36,4 @@
 - Ensured compatibility with the latest Android Studio and Firebase versions.
 - Conducted code review and addressed lint warnings.
 
-👥 **Contributors:**
-- Special thanks to @android_dev1 and @firebase_dev2 for their invaluable contributions!
-
 👉 **Please thoroughly review and test before merging into the main branch. Feedback and suggestions are highly appreciated!** 🙌
